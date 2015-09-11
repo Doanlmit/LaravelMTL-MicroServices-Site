@@ -1,0 +1,16 @@
+@import "node_modules/bootstrap-sass/assets/stylesheets/bootstrap";
+
+body {
+	padding-top: 70px;
+}
+
+ul li.product {
+  width: 20%;
+  float: left;
+  border: 1px solid #f1f1f1;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+  list-style-type: none;
+  height: 175px;
+}
